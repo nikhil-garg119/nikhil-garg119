@@ -8,4 +8,4 @@ I am a game designer, driven by a passion for creating immersive gaming experien
 - 👀 I’m interested in game devlopment and game design
 - 🌱 I’m currently learning unity, unreal, figma
 - 👯 I’m looking to collaborate on any game development projects
-- 📫 How to reach me niku110902@gmail.com
+- 📫 How to reach me nikihl.garg1109@gmail.com
